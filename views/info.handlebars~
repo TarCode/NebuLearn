@@ -1,0 +1,17 @@
+<div class = "container">
+	{{#each info}}
+		<div class="row">
+				<div class="col-12 col-sm-12">
+	        <h3>{{this.name}}</h3>
+	        <img class = "image-responsive" src = "{{this.id}}">
+
+	        	
+	        </div>
+		    <p id = 'infoPane'>{{this.info}}</p>
+		    <p><a href='#' class="button">
+			  <span>Next</span>
+			</a> </p>
+		</div>
+	{{/each}}
+	
+</div>		

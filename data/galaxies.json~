@@ -1,0 +1,30 @@
+[
+	{
+		"name" : "Summer Triangles Over Japan",
+		"id" : "http://apod.nasa.gov/apod/image/1505/SummerTriangles_Takei_1000.jpg",
+		"info" : " Have you ever seen the Summer Triangle? The bright stars Vega, Deneb, and Altair form a large triangle on the sky that can be seen rising in the early northern early spring during the morning and rising in the northern fall during the evening. During summer months, the triangle can be found nearly overhead near midnight. Featured here, the Summer Triangle asterism was captured last month from Gunma, Japan. In the foreground, sporting a triangular shape of its own, is a flowering 500 year old cherry tree, standing about 15 meters tall. The triangular shape of the asterism is only evident from the direction of Earth -- in actuality the stars are thousands of light years apart in space."
+	},
+
+	{
+		"col" : "col-md-3",
+		"name" : "White Rhino",
+		"id" : "wRhino",
+		"info" : "The white rhinoceros or square-lipped rhinoceros is the largest extant species of rhinoceros. It has a wide mouth used for grazing and is the most social of all rhino species."
+	},
+
+	{
+		"col" : "col-md-3",
+		"name" : "Black Rhino",
+		"id" : "bRhino",
+		"info" : "The black rhinoceros or hook-lipped rhinoceros is a species of rhinoceros, native to eastern and central Africa including Kenya, Tanzania, Cameroon, South Africa, Namibia, Zimbabwe, and Angola."
+	},
+
+	{
+		"col" : "col-md-3",
+		"name" : "African Elephant",
+		"id" : "eleph",
+		"info" : "African elephants are elephants of the genus Loxodonta. The genus consists of two extant species: the African bush elephant and the smaller African forest elephant. Loxodonta is one of two existing genera of the family, Elephantidae."
+	}
+	
+]
+

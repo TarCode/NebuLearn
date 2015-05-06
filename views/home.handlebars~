@@ -1,0 +1,42 @@
+ <div class="jumbotron">
+	    	<div class="container">
+        		<h1>Help save our endangered species</h1>
+				<p>Donate to save a creature of your choice</p>
+			</div>
+		</div>
+		<div class = "more">
+			<div class = "container">
+				<div class="row">
+	  	  			<div class="col-md-3" id = "mammals">
+				      
+				        <p><a href='/mammals' class="button">
+						  <span>Mammals</span>
+						</a></p>
+					    
+					</div>
+					
+					<div class="col-md-3" id = "reptiles">
+					    
+					    <p><a href='/reptiles' class="button">
+						  <span>Reptiles</span>
+						</a></p>
+					    
+					</div>
+					
+					<div class="col-md-3" id = "birds">
+					 
+					    <p><a href='/birds' class="button">
+						  <span>Birds</span>
+						</a></p>
+					    
+					</div>	
+
+					<div class="col-md-3" id = "sea">
+					   
+					    <p><a href='/seaLife' class="button">
+						  <span>Sea Life</span>
+						</a></p>
+					    
+					</div>	
+			</div>	
+		</div>		

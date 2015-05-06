@@ -1,0 +1,17 @@
+[
+	{
+		"col" : "col-md-6",
+		"name" : "Loggerhead Sea Turtle",
+		"id" : "seaTurtle",
+		"info" : "The loggerhead sea turtle, or loggerhead, is an oceanic turtle distributed throughout the world. It is a marine reptile, belonging to the family Cheloniidae. The loggerhead sea turtle is found in the Atlantic, Pacific, and Indian Oceans, as well as the Mediterranean Sea. It spends most of its life in saltwater and estuarine habitats, with females briefly coming ashore to lay eggs."
+	},
+
+	{
+		"col" : "col-md-6",
+		"name" : "Pickergill's Reed Frog",
+		"id" : "reedFrog",
+		"info" : "Pickersgills Reed Frog, Hyperolius pickersgilli, is found only in the KwaZulu-Natal Province of South Africa, where it occupies only a small area of coastal wetlands. It is a small species, measuring up to 30 mm (a little over 1 inch) in females. The diminutive reed frog changes color quite noticeably from juvenile to adult. Juveniles are pale brown to greenish, while adult females and some males become a much brighter green color, often with distinctive yellow and white stripes."
+	}
+	
+]
+

@@ -1,0 +1,47 @@
+<div class = "container">
+				<div class="row">
+	  	  			<div class="col-md-3">
+				        <h3>Cheetah</h3>
+				        <div class="thumbnail" id = "cheetah">
+				        	
+				        </div>
+					    <p class = "animalInfo">The fastest land animal in the world, the cheetah has a slender, long-legged body built for speed. They also have spotted coats, small heads and ears and distinctive "tear stripes" that stretch from the corner of the eye to the side of the nose.</p>
+					    <p><a href='#' class="button">
+						  <span>SAVE ME</span>
+						</a> </p>
+					</div>
+					
+					<div class="col-md-3">
+					    <h3>White Rhino</h3>
+					    <div class="thumbnail" id = "wRhino">
+					    	
+					    </div>
+					    <p class = "animalInfo">The white rhinoceros or square-lipped rhinoceros is the largest extant species of rhinoceros. It has a wide mouth used for grazing and is the most social of all rhino species.</p>
+					    <p><a href='#' class="button">
+						  <span>SAVE ME</span>
+						</a></p>
+					</div>
+					
+					<div class="col-md-3">
+					    <h3>Black Rhino</h3>
+					    <div class="thumbnail" id = "bRhino">
+					    	
+					    </div>
+					    <p class = "animalInfo">The black rhinoceros or hook-lipped rhinoceros is a species of rhinoceros, native to eastern and central Africa including Kenya, Tanzania, Cameroon, South Africa, Namibia, Zimbabwe, and Angola.</p>
+					    <p><a href='#' class="button">
+						  <span>SAVE ME</span>
+						</a></p>
+					</div>	
+
+					<div class="col-md-3">
+					    <h3>African Elephant</h3>
+					    <div class="thumbnail" id = "eleph">
+					    	
+					    </div>
+					    <p class = "animalInfo">African elephants are elephants of the genus Loxodonta. The genus consists of two extant species: the African bush elephant and the smaller African forest elephant. Loxodonta is one of two existing genera of the family, Elephantidae. </p>
+					    <p><a href='#' class="button">
+						  <span>SAVE ME</span>
+						</a></p>
+					</div>	
+			</div>	
+		</div>		

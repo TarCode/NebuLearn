@@ -1,0 +1,31 @@
+var express = require('express')
+var app = express()
+var exphbs  = require('express-handlebars')
+
+var avgTotSalesPerDay = require('./data/avgTotDailySales');
+
+app.engine('handlebars', exphbs({defaultLayout: 'main'}));
+app.set('view engine', 'handlebars');
+
+app.use(express.static('public'));
+
+
+app.get('/', function (req, res) {
+    res.render('home');
+});
+
+
+app.get('/avgTotalSalesPerDay', function(req, res){
+    res.render('singlePage', {title: 'AVERAGE TOTAL SALES PER DAY' ,prod:avgTotSalesPerDay});
+});
+
+
+var server = app.listen(3000, function () {
+
+  var host = server.address().address
+  var port = server.address().port
+
+  console.log('Example app listening at http://%s:%s', host, port)
+
+})
+

@@ -1,0 +1,24 @@
+[
+	{
+		"col" : "col-md-4",
+		"name" : "Blue Crane",
+		"id" : "blueCrane",
+		"info" : "Blue cranes are birds of the dry grassy uplands, usually the pastured grasses of hills, valleys, and plains. They prefer areas in the nesting season that have access to both upland and wetland areas, though they feed almost entirely in dry areas. They are altitudinal migrants, generally nesting in the lower grasslands and moving down to lower altitudes for winter."
+	},
+
+	{
+		"col" : "col-md-4",
+		"name" : "Cape Vulture",
+		"id" : "capeVulture",
+		"info" : "The Cape griffon or Cape vulture, also known as Kolbes vulture, is an Old World vulture in the family Accipitridae, which also includes eagles, kites, buzzards and hawks. It is endemic to southern Africa, and is found mainly in South Africa, Lesotho, Botswana and in some parts of northern Namibia. It nests on cliffs and lays one egg per year."
+	},
+
+	{
+		"col" : "col-md-4",
+		"name" : "African Penguin",
+		"id" : "africanPenguin",
+		"info" : "The African penguin, also known as the jackass penguin and black-footed penguin is a species of penguin, confined to southern African waters. It is also widely known as the \"jackass\" penguin for its donkey-like bray. Like all extant penguins it is flightless, with a streamlined body, and wings stiffened and flattened into flippers for a marine habitat."
+	}
+	
+]
+

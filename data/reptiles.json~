@@ -1,0 +1,27 @@
+[
+	{
+		"name" : "Cheetah",
+		"id" : "cheetah",
+		"info" : "The fastest land animal in the world, the cheetah has a slender, long-legged body built for speed. They also have spotted coats, small heads and ears and distinctive tear stripes that stretch from the corner of the eye to the side of the nose."
+	},
+
+	{
+		"name" : "White Rhino",
+		"id" : "wRhino",
+		"info" : "The white rhinoceros or square-lipped rhinoceros is the largest extant species of rhinoceros. It has a wide mouth used for grazing and is the most social of all rhino species."
+	},
+
+	{
+		"name" : "Black Rhino",
+		"id" : "bRhino",
+		"info" : "The black rhinoceros or hook-lipped rhinoceros is a species of rhinoceros, native to eastern and central Africa including Kenya, Tanzania, Cameroon, South Africa, Namibia, Zimbabwe, and Angola."
+	},
+
+	{
+		"name" : "African Elephant",
+		"id" : "eleph",
+		"info" : "African elephants are elephants of the genus Loxodonta. The genus consists of two extant species: the African bush elephant and the smaller African forest elephant. Loxodonta is one of two existing genera of the family, Elephantidae."
+	}
+	
+]
+

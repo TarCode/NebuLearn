@@ -1,0 +1,24 @@
+[
+	{
+		"col" : "col-md-4",
+		"name" : "Abalone/Perelemoen",
+		"id" : "abalone",
+		"info" : "The shells of abalones have a low open spiral structure, and are characterized by several open respiratory pores in a row near the shell outer edge. The thick inner layer of the shell is composed of nacre (mother-of-pearl), which in many species is highly iridescent, giving rise to a range of strong changeable colors, which make the shells attractive to humans as decorative objects."
+	},
+
+	{
+		"col" : "col-md-4",
+		"name" : "Pygmy Blue Whale",
+		"id" : "blueWhale",
+		"info" : "The pygmy blue whale (Balaenoptera musculus brevicauda) is a subspecies of the blue whale (Balaenoptera musculus) found in the Indian Ocean and the southern Pacific Ocean. Reaching lengths of 24 metres (79 ft) it is smaller than the other commonly recognized subspecies."
+	},
+
+	{
+		"col" : "col-md-4",
+		"name" : "Knysna Seahorse",
+		"id" : "seahorse",
+		"info" : "This delicate little creature, with a head like a horse and a tale with a perfect curl, occurs naturally in three estuaries around the country, namely Knysna, Swartvlei, and Keurbooms. Unfortunately, the Knysna estuary is also very important to South Africas fishing industry and the major industrial developments are proving challenging for the seahorses survival."
+	}
+	
+]
+
