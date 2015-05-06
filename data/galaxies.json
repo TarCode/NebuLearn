@@ -7,22 +7,8 @@
 
 	{
 		"name" : "White Dwarf May Have Shredded Passing Planet",
-		"id" : "wRhino",
+		"id" : "/images/data/whiteDwarf.jpg",
 		"info" : "In this Chandra image of ngc6388, researchers have found evidence that a white dwarf star may have ripped apart a planet as it came too close. When a star reaches its white dwarf stage, nearly all of the material from the star is packed inside a radius one hundredth that of the original star. The destruction of a planet may sound like the stuff of science fiction, but a team of astronomers has found evidence that this may have happened in an ancient cluster of stars at the edge of the Milky Way galaxy. Using several telescopes, including NASA’s Chandra X-ray Observatory, researchers have found evidence that a white dwarf star – the dense core of a star like the Sun that has run out of nuclear fuel – may have ripped apart a planet as it came too close."
-	},
-
-	{
-		"col" : "col-md-3",
-		"name" : "Black Rhino",
-		"id" : "bRhino",
-		"info" : "The black rhinoceros or hook-lipped rhinoceros is a species of rhinoceros, native to eastern and central Africa including Kenya, Tanzania, Cameroon, South Africa, Namibia, Zimbabwe, and Angola."
-	},
-
-	{
-		"col" : "col-md-3",
-		"name" : "African Elephant",
-		"id" : "eleph",
-		"info" : "African elephants are elephants of the genus Loxodonta. The genus consists of two extant species: the African bush elephant and the smaller African forest elephant. Loxodonta is one of two existing genera of the family, Elephantidae."
 	}
 	
 ]

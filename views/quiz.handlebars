@@ -1,0 +1,25 @@
+<div class = "container2">
+	<form>
+		{{#each quiz}}
+		<div class = "row">
+			<div class = "col-md-12">
+				<p class="question">{{ques}}</p>
+			</div>
+			<div class = "col-md-6 col-xs-12">
+				<img class = "img-responsive quizImg" src = "{{this.img}}">
+			</div>
+			<div class = "col-md-6">
+				<ul class="answers">
+					<input type="radio" name="q1" value="a" id="qa"><label for="q1a">{{ans1}}</label><br/>
+					<input type="radio" name="q1" value="b" id="qb"><label for="q1b">{{ans2}}</label><br/>
+					<input type="radio" name="q1" value="c" id="qc"><label for="q1c">{{ans3}}</label><br/>
+					<input type="radio" name="q1" value="d" id="qd"><label for="q1d">{{ans4}}</label><br/>
+				</ul>
+			</div>
+		</div>
+		<hr/>
+		{{/each}}
+	</form>
+	<hr/>
+	<a href = '#'>Submit</a>
+</div>

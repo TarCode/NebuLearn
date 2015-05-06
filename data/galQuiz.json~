@@ -1,0 +1,21 @@
+[
+	{
+		"img" :	"",
+		"ques" : "What planet are we on?",
+		"ans1" : "Mars",
+		"ans2" : "Venus",
+		"ans3" : "Earth",
+		"ans4" : "Saturn"
+	},
+
+	{
+		"img" :	"/images/data/whiteDwarf.jpg",	
+		"ques" : "What was ripped apart by the white dwarf star in the image?",
+		"ans1" : "",
+		"ans2" : "",
+		"ans3" : "",
+		"ans4" : ""
+	}
+	
+]
+

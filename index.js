@@ -7,6 +7,8 @@ var planets = require('./data/planets');
 var tech = require('./data/tech');
 var satImg = require('./data/satImg');
 
+var galQuiz = require('./data/galQuiz')
+
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
@@ -15,6 +17,11 @@ app.use(express.static('public'));
 app.get('/', function (req, res) {
     res.render('land');
 });
+
+app.get('/char', function (req, res) {
+    res.render('char');
+});
+
 app.get('/topic', function (req, res) {
     res.render('topic');
 });
@@ -35,6 +42,12 @@ app.get('/tech', function (req, res) {
 app.get('/satImg', function (req, res) {
     res.render('info', {info:satImg});
 });
+
+app.get('/quiz', function (req, res) {
+    res.render('quiz', {quiz:galQuiz});
+});
+
+
 
 var server = app.listen(3000, function () {
 
