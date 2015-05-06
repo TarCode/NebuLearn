@@ -1,19 +1,15 @@
 {
-  "name": "nelisaCashStore",
+  "name": "Nebulearn",
   "version": "0.0.0",
-  "description": "Narrative: Nelisa's Cash Store",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "qunit -c ./functions/supplyPopProduct.js -t ./tests/supplyPopProduct_test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Taariq Isaacs",
+  "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "sqlite3": "~3.0.5",
     "express": "~4.12.3",
-    "express-handlebars": "~2.0.0"
-  },
-  "devDependencies": {
-    "qunit": "~0.7.5"
+    "express-handlebars": "~2.0.1"
   }
 }

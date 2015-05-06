@@ -8,7 +8,7 @@
 			<div class = "col-md-6 col-xs-12">
 				<img class = "img-responsive quizImg" src = "{{this.img}}">
 			</div>
-			<div class = "col-md-6">
+			<div class = "col-md-6 col-xs-12">
 				<ul class="answers">
 					<input type="radio" name="q1" value="a" id="qa"><label for="q1a">{{ans1}}</label><br/>
 					<input type="radio" name="q1" value="b" id="qb"><label for="q1b">{{ans2}}</label><br/>
@@ -19,7 +19,8 @@
 		</div>
 		<hr/>
 		{{/each}}
+		<button type='submit' class = 'Submit'><p class = 'Submit'><br>Submit</p></button>
 	</form>
 	<hr/>
-	<a href = '#'>Submit</a>
+	
 </div>

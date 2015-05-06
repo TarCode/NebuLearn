@@ -1,17 +1,17 @@
 [
 	{
-		"img" :	"",
-		"ques" : "What planet are we on?",
+		"img" :	"/images/galaxies/pia06654.jpg",
+		"ques" : "What took the photograph of the great eye on Saturn's moon?",
 		"ans1" : "Mars",
-		"ans2" : "Venus",
-		"ans3" : "Earth",
-		"ans4" : "Saturn"
+		"ans2" : "Neil Armstrong",
+		"ans3" : "The Jolly Roger",
+		"ans4" : "Cassini spacecraft's narrow-angle camera"
 	},
 
 	{
 		"img" :	"/images/data/whiteDwarf.jpg",	
-		"ques" : "What was ripped apart by the white dwarf star in the image?",
-		"ans1" : "Star",
+		"ques" : "What was the cause of a planet being ripped apart?",
+		"ans1" : "White Dwarf",
 		"ans2" : "Black-Hole",
 		"ans3" : "Planet",
 		"ans4" : "Asteroid"
