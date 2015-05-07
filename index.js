@@ -47,7 +47,8 @@ app.get('/quiz', function (req, res) {
     res.render('quiz', {quiz:galQuiz});
 });
 
-var server = app.listen(5000, function () {
+var port = process.env.PORT || 5000;
+var server = app.listen(port, function () {
 
   var host = server.address().address
   var port = server.address().port
@@ -55,4 +56,3 @@ var server = app.listen(5000, function () {
   console.log('Example app listening at http://%s:%s', host, port)
 
 })
-
