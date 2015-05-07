@@ -6,8 +6,17 @@
 		    </div>
 		    <div class="col-xs-12 col-sm-6">
 		        <img class = "img-responsive" src = "{{this.id}}">
-		       
+
+			<audio controls>
+			  <source src="{{this.aud}}" type="audio/mpeg">
+			 <source src="{{this.aud2}}" type="audio/mpeg">
+			<source src="{{this.aud3}}" type="audio/mpeg">
+			
+			
+			</audio>
 		    </div>
+		
+
 		    <div class="col-xs-12 col-sm-6">
 		    	<p id = 'infoPane'>{{this.info}}</p>
 		    </div>
@@ -15,6 +24,6 @@
 		<hr/>
 	{{/each}}
 	
-	<a href = "/quiz"><button type='submit' class = 'Submit'><p class = 'Submit'><br>Take Quiz</p></button></a>
+	<button type='submit' class = 'Submit'><p class = 'Submit'><br><a href = "/quiz">Take Quiz</a></p></button>
 
 </div>		

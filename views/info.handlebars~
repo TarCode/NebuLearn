@@ -1,17 +1,25 @@
-<div class = "container">
+<div class = "container2">
 	{{#each info}}
 		<div class="row">
-				<div class="col-12 col-sm-12">
-	        <h3>{{this.name}}</h3>
-	        <img class = "image-responsive" src = "{{this.id}}">
-
-	        	
-	        </div>
-		    <p id = 'infoPane'>{{this.info}}</p>
-		    <p><a href='#' class="button">
-			  <span>Next</span>
-			</a> </p>
+			<div class="col-xs-12 col-sm-12">
+		        <h3>{{this.name}}</h3>
+		    </div>
+		    <div class="col-xs-12 col-sm-6">
+		        <img class = "img-responsive" src = "{{this.id}}">
+		        <audio controls>
+				  <source src="{{this.aud}}" type="audio/mpeg">
+				 <source src="{{this.aud2}}" type="audio/mpeg">
+				<source src="{{this.aud3}}" type="audio/mpeg">
+								
+			</audio>
+		    </div>
+		    <div class="col-xs-12 col-sm-6">
+		    	<p id = 'infoPane'>{{this.info}}</p>
+		    </div>
 		</div>
+		<hr/>
 	{{/each}}
 	
+	<a href = "/quiz"><button type='submit' class = 'Submit'><p class = 'Submit'><br>Take Quiz</p></button></a>
+
 </div>		

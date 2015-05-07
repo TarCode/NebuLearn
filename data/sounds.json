@@ -1,0 +1,25 @@
+
+[
+	{
+		"name" : "Eerie Sounds of Saturn's Radio Emissions",
+		"id" : "images/sounds/cassiniWaves.jpg",
+		"aud" : "/images/sounds/casinniWaves.mp3",
+		
+		"info" : "Saturn is a source of intense radio emissions, which have been monitored by the Cassini spacecraft. The radio waves are closely related to the auroras near the poles of the planet. These auroras are similar to Earth's northern and southern lights. This is an audio file of radio emissions from Saturn. The Cassini spacecraft began detecting these radio emissions in April 2002, when Cassini was 374 million kilometers (234 million miles) from the planet, using the Cassini radio and plasma wave science instrument."
+
+	},
+
+	{	
+		"name" : "NASA Voyager: 'Tsunami Wave' Still Flies Through Interstellar Space",
+		"id" : "images/sounds/shockWave.jpg",
+		"aud2" : "/images/sounds/shockWave.mp3",
+		"info" : "The Voyager 1 spacecraft has experienced three Tsunami Waves in interstellar space. Listen to how these waves cause surrounding ionized matter to ring like a bell. Credits: The Voyager 1 spacecraft has experienced three shock waves. The most recent shock wave, first observed in February 2014, still appears to be going on. One wave, previously reported, helped researchers determine that Voyager 1 had entered interstellar space."
+	},
+	
+	{	
+		"name" : "NASA Spacecraft Records 'Earthsong'",
+		"id" : "images/sounds/chorus.jpg",
+		"aud3" : "/images/sounds/chorus.mp3",
+		"info" : "Oct. 1, 2012:  In space, they say, no one can hear you scream. Nobody ever said anything about singing, though. A NASA spacecraft has just beamed back a beautiful song sung by our own planet - Chorus is it's name. This is one of the clearest examples that has ever bee heard. Earthsong (splash). A new ScienceCast video explores the eerie-sounding radio emissions that come from our own planet. Play it and enjoy!!!"
+	}
+]

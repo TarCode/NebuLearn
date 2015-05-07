@@ -7,6 +7,7 @@ var galaxies = require('./data/galaxies');
 var planets = require('./data/planets');
 var tech = require('./data/tech');
 var satImg = require('./data/satImg');
+var sounds = require('./data/sounds');
 
 
 
@@ -51,6 +52,10 @@ app.get('/finish', function (req, res) {
 
 app.get('/contact', function (req, res) {
     res.render('contact');
+});
+
+app.get('/sounds', function (req, res) {
+    res.render('infoSound', {info:sounds});
 });
 
 var port = process.env.PORT || 5000;
