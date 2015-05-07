@@ -2,6 +2,7 @@ var express = require('express')
 var app = express()
 var exphbs  = require('express-handlebars')
 
+var quiz = require('./public/js/quiz')
 var galaxies = require('./data/galaxies');
 var planets = require('./data/planets');
 var tech = require('./data/tech');
