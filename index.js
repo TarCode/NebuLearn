@@ -8,7 +8,7 @@ var planets = require('./data/planets');
 var tech = require('./data/tech');
 var satImg = require('./data/satImg');
 
-var galQuiz = require('./data/galQuiz')
+
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
@@ -42,7 +42,7 @@ app.get('/satImg', function (req, res) {
 });
 
 app.get('/quiz', function (req, res) {
-    res.render('quiz', {quiz:galQuiz});
+    res.render('quiz');
 });
 
 var port = process.env.PORT || 5000;
