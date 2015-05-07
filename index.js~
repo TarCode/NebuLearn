@@ -6,7 +6,7 @@ var galaxies = require('./data/galaxies');
 var planets = require('./data/planets');
 var tech = require('./data/tech');
 var satImg = require('./data/satImg');
-var port_number = server.listen(process.env.PORT || 3000);
+
 var galQuiz = require('./data/galQuiz')
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
