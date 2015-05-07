@@ -19,9 +19,6 @@ app.get('/', function (req, res) {
     res.render('land');
 });
 
-app.get('/char', function (req, res) {
-    res.render('char');
-});
 
 app.get('/topic', function (req, res) {
     res.render('topic');
