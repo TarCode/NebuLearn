@@ -49,6 +49,10 @@ app.get('/finish', function (req, res) {
     res.render('finish');
 });
 
+app.get('/contact', function (req, res) {
+    res.render('contact');
+});
+
 var port = process.env.PORT || 5000;
 var server = app.listen(port, function () {
 
