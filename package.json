@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "~4.12.3",
     "express-handlebars": "~2.0.1"
-  }
+  },
+"engines": {
+	"node": "0.10.25"
+   }
 }
