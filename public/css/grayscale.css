@@ -716,3 +716,6 @@ ul.solarsystem li.pluto {-webkit-animation-duration:120s; -moz-animation-duratio
 @-moz-keyframes moon { from { -moz-transform:rotate(0deg) } to { -moz-transform:rotate(360deg) } }
 
 /*ul.solarsystem:hover li {-webkit-animation-play-state: paused;} */
+.footy a{
+    text-decoration: none;
+}
