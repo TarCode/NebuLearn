@@ -624,6 +624,7 @@ ul#descriptions {
     top: 150px;
     right: 100px;
     list-style: none;
+     margin-top: 30px;
 }
 ul#descriptions h2 {
     cursor: pointer;
@@ -639,7 +640,7 @@ ul#descriptions h2 {
     -moz-transform: scale(1);
     -o-transform: scale(1);
     transform: scale(1);
-    margin-bottom: 4px;
+    margin-top: 4px;
 }
 ul#descriptions h2:hover {
    color: #aa4200; 
