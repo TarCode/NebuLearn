@@ -720,3 +720,12 @@ ul.solarsystem li.pluto {-webkit-animation-duration:120s; -moz-animation-duratio
 .footy a{
     text-decoration: none;
 }
+
+.arctLogo{
+    background-image: url("/images/arct.png");
+    height: 19em;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+
+}
